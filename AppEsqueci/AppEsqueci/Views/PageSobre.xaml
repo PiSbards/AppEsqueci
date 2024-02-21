@@ -7,7 +7,7 @@
             <Image Source="esqueci1.png" Margin="10"/>
             <StackLayout>
                 <Label Text="ESQUECI" FontSize="Large" FontAttributes="Bold" VerticalOptions="EndAndExpand"/>
-                <Label Text="TURMA TDS10" FontSize="Large" FontAttributes="Bold" VerticalOptions="Center" HorizontalOptions="Center"/>
+                <Label Text="TURMA TDS10" FontSize="Large" FontAttributes="Bold" VerticalOptions="Center" HorizontalOptions="Start"/>
                 <Label Text="Desenvolvedor: Pietro R. Sbardellati" FontSize="Large" FontAttributes="Bold" VerticalOptions="Center" HorizontalOptions="Center"/>
                 <Label Text=" Maringá - 2024" FontSize="Medium" FontAttributes="Bold" VerticalOptions="StartAndExpand" HorizontalOptions="StartAndExpand"/>
             </StackLayout>
